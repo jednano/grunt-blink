@@ -1,7 +1,8 @@
 # grunt-blink
 
-> Grunt plugin for [Blink](https://github.com/jedmao/blink).
-
+> **⚠️ DEPRECATED:** This package is no longer maintained.
+> The original [`blink`](https://www.npmjs.com/package/blink) package was sold and is now owned by [Coder](https://coder.com).
+> This package will not receive updates and may no longer function as originally intended.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
