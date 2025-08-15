@@ -46,10 +46,10 @@
     "grunt-contrib-nodeunit": "^0.4.1",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-mocha-test": "^0.12.1",
-    "grunt-tslint": "^0.4.2",
+    "grunt-tslint": "^5.0.2",
     "grunt-typescript-compile": "^0.2.0",
     "load-grunt-tasks": "^0.6.0",
-    "mocha": "^1.21.5",
+    "mocha": "^11.7.1",
     "sinon": "^1.10.3",
     "sinon-chai": "^2.6.0",
     "time-grunt": "^1.0.0"
